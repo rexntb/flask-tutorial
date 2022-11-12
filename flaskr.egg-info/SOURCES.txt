@@ -1,4 +1,6 @@
 MANIFEST.in
+README.md
+setup.cfg
 setup.py
 flaskr/__init__.py
 flaskr/auth.py
